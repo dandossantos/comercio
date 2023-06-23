@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+Z:\LIP1\daniel_vinicius\comercio\.metadata\.plugins\org.eclipse.jdt.core
+3124090304.index
